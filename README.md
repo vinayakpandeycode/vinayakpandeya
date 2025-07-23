@@ -1,51 +1,51 @@
 <h1 align="center">Hi 👋, I'm Vinayak Pandey</h1>
-<h3 align="center">🚀 MERN Stack & Java Developer | Exploring AI & DevOps | Tech Enthusiast</h3>
+<h3 align="center">MERN Stack & Java Developer | AI & DevOps Enthusiast</h3>
+
+<p align="center">
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=22&pause=1000&color=00BFFF&width=435&lines=Exploring+AI+%26+DevOps;Full+Stack+Web+Developer;Java+DSA+Practitioner;Tech+Enthusiast+%F0%9F%94%A5" alt="Typing SVG" />
+</p>
 
 ---
 
-### 🧑‍💻 About Me
-
-- 🌱 I’m currently exploring **Artificial Intelligence** and **DevOps**
-- 💬 Ask me about **MERN Stack**, **Java**, and **Web Development**
-- 📫 How to reach me: **vinayakpandeyo166@gmail.com**
-- 💼 LinkedIn: [vinayakpandeya](https://www.linkedin.com/in/vinayakpandeya/)
-- 🔗 GitHub: [vinayakpandeya](https://github.com/vinayakpandeya)
+### 🌐 Connect with Me
+- 📫 Email: **vinayakpandeyo166@gmail.com**
+- 💼 LinkedIn: [linkedin.com/in/vinayakpandeya](https://linkedin.com/in/vinayakpandeya)
+- 💻 GitHub: [github.com/vinayakpandeycode](https://github.com/vinayakpandeycode)
 
 ---
 
-### 💻 Tech Stack
+### 🚀 Tech Stack
 
-- 💠 **Languages**: Java, JavaScript, HTML, CSS  
-- 🧱 **Frontend**: React.js, HTML5, CSS3, Bootstrap, Tailwind  
-- 🛠️ **Backend**: Node.js, Express.js  
-- 🗃️ **Database**: MongoDB, MySQL  
-- ⚙️ **Tools & Platforms**: Git, GitHub, VS Code, Postman  
-- ☁️ **DevOps (Learning)**: Docker, Jenkins, Kubernetes  
-- 🧠 **AI/ML (Exploring)**: Python (basics), ML concepts  
+- 💻 Languages: `Java`, `JavaScript`, `HTML`, `CSS`
+- 🌐 Frontend: `React.js`, `Tailwind CSS`, `Bootstrap`
+- 🛠️ Backend: `Node.js`, `Express.js`
+- 🗃️ Database: `MongoDB`, `MySQL`
+- ⚙️ Tools: `Git`, `GitHub`, `VS Code`, `Postman`
+- ☁️ Exploring: `DevOps`, `AI`, `Docker`
 
 ---
 
 ### 📊 GitHub Stats
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=vinayakpandeya&show_icons=true&theme=radical" width="45%" />
-  <img src="https://github-readme-streak-stats.herokuapp.com?user=vinayakpandeya&theme=radical" width="45%" />
+  <img src="https://github-readme-stats.vercel.app/api?username=vinayakpandeycode&show_icons=true&theme=radical" height="160"/>
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=vinayakpandeycode&layout=compact&theme=radical" height="160"/>
 </p>
 
 ---
 
-### 📫 Connect with Me
+### 🏆 Achievements & Badges
 
 <p align="center">
-  <a href="mailto:vinayakpandeyo166@gmail.com"><img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" /></a>
-  <a href="https://www.linkedin.com/in/vinayakpandeya/"><img src="https://img.shields.io/badge/LinkedIn-blue?style=for-the-badge&logo=linkedin&logoColor=white" /></a>
-  <a href="https://github.com/vinayakpandeya"><img src="https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white" /></a>
+  <img src="https://user-images.githubusercontent.com/00000000/ssoc-badge.png" height="50" alt="SSOC Contributor Badge"/>
+  <img src="https://user-images.githubusercontent.com/00000000/girlscript-badge.png" height="50" alt="GirlScript Summer of Code Badge"/>
 </p>
 
 ---
 
-### 🎖️ Badge & Achievement
+### 🔥 Motto
 
-<p align="center">
-  <img src="https://github.com/vinayakpandeya/vinayakpandeya/assets/1332640f-6a09-4d21-83e1-94c90a94deff" width="200px" alt="Social Summer of Code Contributor Badge"/>
-</p>
+> “Code with purpose, build with passion, and keep learning!” 💪
+
+---
+
