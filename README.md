@@ -36,12 +36,9 @@
 
 ### 🏆 Achievements & Badges
 
-<p align="center">
-  <img src="https://user-images.githubusercontent.com/00000000/ssoc-badge.png" height="50" alt="SSOC Contributor Badge"/>
-  <img src="https://user-images.githubusercontent.com/00000000/girlscript-badge.png" height="50" alt="GirlScript Summer of Code Badge"/>
-</p>
+![Image](https://github.com/user-attachments/assets/162ed9f8-5ee9-4f60-8221-de37c88a7f25)
 
----
+![Image](https://github.com/user-attachments/assets/e9d43f6a-7db6-4f89-ad21-2ab650fd93e4)
 
 ### 🔥 Motto
 
