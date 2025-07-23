@@ -58,6 +58,9 @@
   </a>
 </p>
 
+---
+
+### 🎖️ Badges & Achievements
 <p align="center">
-  <img src="https://github.com/user-attachments/assets/5515d340-cb3a-4f2d-bfa6-248f9b892825" width="100%" />
+  <img src="https://github.com/user-attachments/assets/5515d340-cb3a-4f2d-bfa6-248f9b892825" width="300px" />
 </p>
